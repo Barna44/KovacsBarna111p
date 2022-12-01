@@ -1,0 +1,7 @@
+háttér:
+lila: rgb(52, 52, 88)
+sárga: rgb(172, 163, 134)
+
+navbar:
+lila: rgb(42, 42, 78)
+sárga: rgb(219, 208, 171)

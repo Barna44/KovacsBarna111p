@@ -1,0 +1,92 @@
+body
+{ 
+    background-color: darkgreen;
+
+}
+a:link
+{ 
+    color: darkgreen;
+}
+a:visited
+{ 
+    color:darkgreen;
+}
+a:active
+{ 
+    color: darkgreen;
+}
+table
+{ 
+    width: 1000px;
+    padding: 3px;
+    border-spacing: 3px;
+    background-color: palegreen;
+    margin-left: auto;
+    margin-right: auto;
+}
+#keptablazat
+{ 
+    width: 150px;
+    vertical-align: top;
+}
+#szovegtablazat
+{ 
+    vertical-align: top;
+}
+p
+{ 
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.kep1
+{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 106px;
+    height: 201px;
+}
+h2
+{ 
+    color: darkgreen;
+}
+hr
+{ 
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kep2
+{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 267px;
+    border: 1px solid black;
+}
+#palign
+{ 
+    align-items: center;
+}
+.kepbekezdes
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+#jobbranyil
+{
+    display: inline;
+    float: right;
+    width: 50px;
+    height: 50px;
+}
+
+#balranyil
+{
+    width: 50px;
+    height: 50px;
+    transform: rotate(180deg);
+}
